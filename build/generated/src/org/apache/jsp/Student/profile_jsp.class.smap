@@ -1,0 +1,19 @@
+SMAP
+profile_jsp.java
+JSP
+*S JSP
+*F
++ 0 profile.jsp
+Student/profile.jsp
++ 1 header.jsp
+Student/header.jsp
++ 2 footer.jsp
+Student/footer.jsp
+*L
+1,4:50
+1#1,342:54
+4#0,94:395
+99,82:489
+1#2,172:571
+180#0,25:743
+*E

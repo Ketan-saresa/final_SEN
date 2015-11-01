@@ -1,0 +1,21 @@
+SMAP
+task_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+Professor/header.jsp
++ 1 task.jsp
+Professor/task.jsp
++ 2 footer.jsp
+Professor/footer.jsp
+*L
+1,353:50
+1#1,30:402
+31:432,3
+32,5:435
+37:440,3
+38,74:443
+1#2,172:517
+111#1,8:689
+*E
